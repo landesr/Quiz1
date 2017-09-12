@@ -45,20 +45,17 @@ public class Quarterback {
 		}
 		if (b > 2.375) {
 			b = 2.375;
-		}
-		if (b < 0) {
+		} else if (b < 0) {
 			b = 0;
 		}
 		if (c > 2.375) {
 			c = 2.375;
-		}
-		if (c < 0) {
+		} else if (c < 0) {
 			c = 0;
 		}
 		if (d > 2.375) {
 			d = 2.375;
-		}
-		if (d < 0) {
+		} else if (d < 0) {
 			d = 0;
 		}
 

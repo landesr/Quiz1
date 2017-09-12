@@ -8,7 +8,6 @@ public class cMain {
 
 	public static void main(String[] args) {
 		Quarterback Wentz = new Quarterback();
-		Scanner input2 = new Scanner(System.in);
 		
 		Scanner input = new Scanner(System.in);
 		System.out.println("Number of touchdowns: ");
